@@ -80,8 +80,10 @@
 
 ### 12. Common Issues and Solutions
 12.1 FAQ Section
+
 12.2 Appendix
 
-Glossary of Terms
-Additional Resources
-Contact Information
+### 13. Glossary of Terms
+13.1 Additional Resources
+
+13.2 Contact Information
